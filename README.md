@@ -28,10 +28,12 @@ cp *.scpt* ~/Library/iTunes/Scripts/
 The scripts:
 
 - Delete Selected
+
 Where written by Doug Adams (dougscripts@mac.com) and are provided under GNU General Public License.
 
 The scripts:
 
 - Delete Selected (doesn't removes the originals)
 - Whack Current Track (less notifications)
+
 Where written by Doug Adams (dougscripts@mac.com) and are provided under GNU General Public License, and updated by myself.
