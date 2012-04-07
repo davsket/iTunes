@@ -8,6 +8,6 @@ iTunes scripts for common tasks as:
 
 ## Usage
 Install these scripts into Library/iTunes/Scripts
-```batch
+``` batch
 open Library/iTunes/Scripts
 ```
